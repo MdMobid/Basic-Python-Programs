@@ -1,7 +1,7 @@
-# Write A Program To Take Input for a Number and check whether its a Part of Fibonacci Series (upto 80)
+# Write A Program To Take Input for a Number and check whether its a Part of Fibonacci Series
 
 num=int(input("Enter a Number: "))
-nterms=20
+nterms=int(input("Enter the number of terms in Fibonacci Series: (upto which term you want to check)"))
 list1=[]
 n1=0
 n2=1
