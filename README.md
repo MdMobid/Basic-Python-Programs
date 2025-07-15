@@ -1,4 +1,4 @@
-# List-Related Problems
+## List-Related Problems
 
 - [Write A Program To Display Frequency of Each Number Present In a List](https://github.com/MdMobid/Basic-Python-Programs/blob/main/School%20Problems/Code3.py)
 
@@ -31,7 +31,7 @@
 - [Write a Python program to delete the first 5 elements from the list using slicing and print the updated list](https://github.com/MdMobid/Basic-Python-Programs/blob/main/School%20Problems/Code31.py)
 
 ---
-# String-Related Problems
+## String-Related Problems
 
 - [Write A Program To Take Input Of A Four Digit And Display Its String Equivalent](https://github.com/MdMobid/Basic-Python-Programs/blob/main/School%20Problems/Code1.py)
 
@@ -52,7 +52,7 @@
 - [Write a Python program to take a string input from the user, count and print the number of small letters, capital letters, and digits in a given string](https://github.com/MdMobid/Basic-Python-Programs/blob/main/School%20Problems/Code34.py)
 
 ---
-# Math & Logic-Based Problems
+## Math & Logic-Based Problems
 
 - [Write A Program To Take Input for a Number and check whether its a Part of Fibonacci Series (upto 80)](https://github.com/MdMobid/Basic-Python-Programs/blob/main/School%20Problems/Code4.py)
 
